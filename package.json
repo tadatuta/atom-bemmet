@@ -1,0 +1,25 @@
+{
+  "name": "atom-bemmet",
+  "main": "./lib/atom-bemmet",
+  "version": "1.0.0",
+  "description": "Atom plugin for bemmet",
+  "keywords": [
+      "bem",
+      "bemjson",
+      "emmet",
+      "plugin",
+      "snippet"
+  ],
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "activationCommands": {
+    "atom-workspace": "atom-bemmet:convert"
+  },
+  "repository": "https://github.com/tadatuta/atom-bemmet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "bemmet": "^1.1.0"
+  }
+}

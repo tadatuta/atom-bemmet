@@ -8,4 +8,4 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
-  'cmd-B': 'atom-bemmet:convert'
+  'shift-cmd-C': 'atom-bemmet:convert'

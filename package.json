@@ -1,7 +1,7 @@
 {
   "name": "atom-bemmet",
   "main": "./lib/atom-bemmet",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Atom plugin for bemmet",
   "keywords": [
     "bem",
@@ -20,6 +20,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "bemmet": "^1.3.0"
+    "bemmet": "^1.5.1"
   }
 }

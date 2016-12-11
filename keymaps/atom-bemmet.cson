@@ -9,3 +9,4 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
   'shift-cmd-C': 'atom-bemmet:convert'
+  'shift-ctrl-C':'atom-bemmet:convert'

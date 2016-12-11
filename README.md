@@ -4,7 +4,7 @@ Atom plugin for [bemmet](https://github.com/tadatuta/bemmet).
 
 ## How to use
 
-To convert an abbreviation to BEMJSON press `shift-cmd-C`.
+To convert an abbreviation to BEMJSON press `shift-cmd-C` for Mac and 'shift-ctrl-C' for Windows.
 
 For example, this abbreviation
 
